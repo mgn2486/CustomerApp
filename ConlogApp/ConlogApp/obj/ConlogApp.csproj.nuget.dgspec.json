@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev-Repos\\GitLab\\Conlog-WindowsFormsApp\\ConlogApp\\ConlogApp\\ConlogApp.csproj": {}
+    "D:\\Dev-Repos\\GitHub\\CustomerApp\\ConlogApp\\ConlogApp\\ConlogApp.csproj": {}
   },
   "projects": {
-    "D:\\Dev-Repos\\GitLab\\Conlog-WindowsFormsApp\\ConlogApp\\ConlogApp\\ConlogApp.csproj": {
+    "D:\\Dev-Repos\\GitHub\\CustomerApp\\ConlogApp\\ConlogApp\\ConlogApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev-Repos\\GitLab\\Conlog-WindowsFormsApp\\ConlogApp\\ConlogApp\\ConlogApp.csproj",
+        "projectUniqueName": "D:\\Dev-Repos\\GitHub\\CustomerApp\\ConlogApp\\ConlogApp\\ConlogApp.csproj",
         "projectName": "ConlogApp",
-        "projectPath": "D:\\Dev-Repos\\GitLab\\Conlog-WindowsFormsApp\\ConlogApp\\ConlogApp\\ConlogApp.csproj",
+        "projectPath": "D:\\Dev-Repos\\GitHub\\CustomerApp\\ConlogApp\\ConlogApp\\ConlogApp.csproj",
         "packagesPath": "C:\\Users\\Gomba Ndadzibaya\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev-Repos\\GitLab\\Conlog-WindowsFormsApp\\ConlogApp\\ConlogApp\\obj\\",
+        "outputPath": "D:\\Dev-Repos\\GitHub\\CustomerApp\\ConlogApp\\ConlogApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

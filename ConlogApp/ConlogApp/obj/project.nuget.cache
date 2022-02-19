@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GwoSdccc1QtB+nukOI5yGtOZhb5n/rkA/k5BxGvFfSiip0kEtBvfmcyA7H1q9Vk5zUSHb7UEOQp8R8SA2IhOlQ==",
+  "dgSpecHash": "kMAH+QQ98Uev8ZN/TEQodSOjKxW5QavRDIxDT5fmyS+r49E63fGAnTEbKc+HBMrFTD3KgRBvd2UFNdL52ahSaA==",
   "success": true,
-  "projectFilePath": "D:\\Dev-Repos\\GitLab\\Conlog-WindowsFormsApp\\ConlogApp\\ConlogApp\\ConlogApp.csproj",
+  "projectFilePath": "D:\\Dev-Repos\\GitHub\\CustomerApp\\ConlogApp\\ConlogApp\\ConlogApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gomba Ndadzibaya\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gomba Ndadzibaya\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
